@@ -4,8 +4,8 @@ Page with full info for travel app
 from tkinter import END, INSERT, WORD, Text
 from tkinter import ttk
 
-from TravelApp_BIV222.browser import browse_ticket, browse_hotel, browse_event
-from database_connector import tickets_update, hotels_update, events_update
+from TravelApp_BIV222.files.browser import browse_ticket, browse_hotel, browse_event
+from TravelApp_BIV222.files.database_connector import tickets_update, hotels_update, events_update
 
 
 class FullInfoPage(ttk.Frame):

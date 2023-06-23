@@ -4,7 +4,7 @@ Profile page for travel app
 from tkinter import BOTTOM, X, LEFT, Text, WORD, END, TOP
 from tkinter import INSERT, ttk
 
-from database_connector import clear, show_info
+from TravelApp_BIV222.files.database_connector import clear, show_info
 
 
 class ProfilePage(ttk.Frame):
