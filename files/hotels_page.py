@@ -5,7 +5,7 @@ from datetime import datetime
 from tkinter import ttk, StringVar
 from tkcalendar import DateEntry
 
-import TravelApp_BIV222.hotel_api
+import hotel_api
 from city_codes import get_city_code
 
 

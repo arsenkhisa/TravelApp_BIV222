@@ -5,7 +5,7 @@ from tkinter import StringVar, ttk
 
 import event_api
 from city_codes import change_city_code
-from TravelApp_BIV222.event_num import change_event_type
+from event_num import change_event_type
 
 
 class EventsPage(ttk.Frame):

@@ -5,12 +5,12 @@ from tkinter import ttk, Tk
 from tkinter import font as tkfont
 import configparser
 
-from TravelApp_BIV222.tickets_page import TicketsPage
-from TravelApp_BIV222.hotels_page import HotelsPage
+from tickets_page import TicketsPage
+from hotels_page import HotelsPage
 from events_page import EventsPage
 from settings_page import SettingsPage
 from profile_page import ProfilePage
-from TravelApp_BIV222.full_info_page import FullInfoPage
+from full_info_page import FullInfoPage
 
 
 class App(Tk):
