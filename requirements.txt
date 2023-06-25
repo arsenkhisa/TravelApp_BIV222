@@ -1,0 +1,9 @@
+tkinter==8.6
+configparser==5.3.0
+DateTime==5.1
+tkcalendar==1.6.1
+json5==0.9.11
+requests==2.27.1
+webbrowserdownloader==0.1
+mysql-connector-python==8.0.32
+Babel==2.12.1
